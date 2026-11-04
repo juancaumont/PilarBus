@@ -49,3 +49,7 @@ Se propone utilizar GitHub Actions para automatizar tres etapas:
 # Conclusión
 
 La combinación de Trello y GitHub permite organizar las tareas, facilitar la colaboración entre los integrantes y mantener un mejor control del desarrollo de PilarBus.
+
+## Prueba de Pull Request
+
+Esta sección se agregó para demostrar el proceso de revisión e incorporación de cambios mediante Pull Requests en GitHub.
